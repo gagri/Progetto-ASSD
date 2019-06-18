@@ -1,0 +1,5 @@
+*********NOTE**********
+
+1) Ricordarsi di utilizzare la versione fat del jar di emufog altrimenti non funziona:
+java -jar build/libs/emufog-master-1.0-fat.jar -s settings.json -t brite -f topology.brite -o out.py
+
